@@ -132,6 +132,7 @@ This code will perform *getNewData()* once and then listen for the *Update* comm
 
 ## TODOs
 - [ ] Swift 3 support
+- [ ] Create CocoaPod
 
 ## Authors
 
