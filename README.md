@@ -131,6 +131,7 @@ doListen("Data", command: "Update") { _ in
 This code will perform *getNewData()* once and then listen for the *Update* command before it runs again. *doListen* also has the usual *doListenTo* counterparts.
 
 ## TODOs
+- [ ] Add Example Project
 - [ ] Swift 3 support
 - [ ] Create CocoaPod
 
